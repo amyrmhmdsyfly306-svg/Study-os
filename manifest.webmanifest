@@ -1,0 +1,14 @@
+
+{
+  "name": "Study OS",
+  "short_name": "Study OS",
+  "description": "سیستم شخصی مدیریت مطالعه امیرمحمد",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101827",
+  "theme_color": "#101827"
+}
